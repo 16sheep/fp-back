@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  secret: MyString
+  location: MyString
+  logo_img: MyString
+  map_img: MyString
+  date_from: 2018-08-29 17:40:01
+  date_until: 2018-08-29 17:40:01
+  user_id: 1
+
+two:
+  name: MyString
+  secret: MyString
+  location: MyString
+  logo_img: MyString
+  map_img: MyString
+  date_from: 2018-08-29 17:40:01
+  date_until: 2018-08-29 17:40:01
+  user_id: 1

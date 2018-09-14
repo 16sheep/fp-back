@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  area_id: MyString
+  integer: MyString
+  festival_id: 1
+  user_id: 1
+  time_from: 2018-08-29 17:42:19
+  time_until: 2018-08-29 17:42:19
+  type: 
+
+two:
+  name: MyString
+  description: MyString
+  area_id: MyString
+  integer: MyString
+  festival_id: 1
+  user_id: 1
+  time_from: 2018-08-29 17:42:19
+  time_until: 2018-08-29 17:42:19
+  type: 
